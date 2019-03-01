@@ -4,8 +4,8 @@
 #define LED_WIFI LED_BUILTIN
 #define INPUT_ADC A0
 
-#define ssid "2331A"
-#define password "0123456789"
+#define ssid "YOUR-SSID"
+#define password "YOUR-SECRET-PASSWORD"
 
 #define SERVER_URL "http://192.168.1.105:8000/"
 
