@@ -7,7 +7,7 @@
 #define ssid "YOUR-SSID"
 #define password "YOUR-SECRET-PASSWORD"
 
-#define SERVER_URL "http://192.168.1.105:8000/"
+#define SERVER_URL "SERVER-URL"
 
 void setup_wifi(void);
 void read_data(void);
